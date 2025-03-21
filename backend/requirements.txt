@@ -1,0 +1,11 @@
+fastapi==0.105.0
+uvicorn==0.24.0
+pydantic==2.5.2
+python-dotenv==1.0.0
+requests==2.31.0
+httpx==0.25.2
+sqlalchemy==2.0.23
+numpy==1.26.0
+skyfield==1.46
+pyorbital==1.7.1  # For orbital calculations
+skyfield==1.45.1  # Advanced astronomical calculations 
